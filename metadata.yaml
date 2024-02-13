@@ -1,0 +1,26 @@
+_repo: The-murders-in-Praed-Street_72926
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rhode, John
+    gutenberg_agent_id: '56864'
+    url: http://www.gutenberg.org/2009/agents/56864
+description: ''
+gutenberg_issued: '2024-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72926'
+language: en
+pgterms:marc904: https://www.google.com/books/edition/_/iVMuAAAAIAAJ
+pgterms:marc905: 20240202211301rhode
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Brian Raiter
+publication_note: '  $aUnited States :$bA. L. Burt Company, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The murders in Praed Street
+url: http://www.gutenberg.org/ebooks/72926
